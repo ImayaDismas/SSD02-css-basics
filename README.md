@@ -1,1 +1,4 @@
-# SSD02-css-basics
+## HTML & CSS Full Course
+#### SSD02:CSS Basics
+Learning CSS Basics
+
